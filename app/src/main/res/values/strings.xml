@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+
+    <string name="error">Error !!!!</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="CreateNewAccount">Create New Account</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">album fragment</string>
+    <string name="enter_artist">Enter Artist Name</string>
+    <string name="search">Search</string>
+    <string name="track_list">Track List</string>
+    <string name="clear_history">Clear History</string>
+    <string name="select_user_sharing">Select User to Share Album</string>
+
+</resources>
